@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<title> Table</title>
+</head>
+<body>
+	<ol>		
+    <li>Vegetables</li>	
+    <li>Fruit>/li>
+    <ul>				
+       <li>Blueberries</li>
+       <li>Bananas</li>
+    </ul>
+</ol>
+</body>
+</html>
